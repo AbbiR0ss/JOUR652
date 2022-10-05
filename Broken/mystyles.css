@@ -1,0 +1,47 @@
+body {
+	background-color: #E8E8E8;
+	font-family: 'Montserrat', sans-serif;
+
+}
+h1 {
+	color:#9D2235;
+	font-weight:bold;
+}
+
+h2 {
+	text-align: center;
+}
+
+a {color: #000000; text-decoration: none;}
+
+a:hover {color: royalblue;}
+
+p {
+	color: black;
+}
+
+.customgraph {
+	color: black;
+	fontsize: 30px;
+}
+
+.customgraph2 {
+	color: #9D2235;
+	fontsize: 30px;
+}
+
+.customgraph3 {
+	color: black;
+	fontsize: 30px;
+	font-style:italic;
+}
+
+img {
+	display:  block;
+	margin-left:  auto;
+	margin-right:  auto;
+}
+
+.customgraph4 {
+	color:#9D2235;
+}
