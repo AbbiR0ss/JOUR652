@@ -1,0 +1,33 @@
+.sidebar {
+	background-color:#999 ;
+	margin-top: 75px;
+	margin-bottom: 3000px;
+	padding-top: 20px;
+
+}
+
+.tableStyle {
+	border:  solid 1px #666;
+
+}
+
+.footerBar {
+	background-color: #333;
+	color: #fff ;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+h3 {
+	font-weight: bold;
+}
+
+a {
+	color: red;
+}
+
+h2 {
+	font-weight: 800;
+}
