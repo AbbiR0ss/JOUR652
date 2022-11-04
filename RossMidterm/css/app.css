@@ -1,0 +1,21 @@
+body {
+  background-color: #FFFFFF;
+  font-family: "Trirong", sans-serif;
+
+}
+
+h1, h2, h3 {
+  font-family: "Trirong", sans-serif;
+  font-weight: bold;
+}
+
+.sidebar {
+  background-color:#C3DFEA
+ ;
+  margin-top: 0px;
+  margin-bottom: 4000px;
+  padding-top: 20px;
+
+}
+
+
